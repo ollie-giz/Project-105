@@ -1,0 +1,19 @@
+body {
+    align-items: center;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+center {
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: grey;
+}
+
+hr {
+    color: grey;
+    font-weight: bold;
+    font-size: 50px;
+}
+
